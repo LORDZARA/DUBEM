@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Carshop.com</title>
+</head>
+<body>
+    <center>
+    <h1> CAR SHOP </h1>
+    <header>
+        <nav>
+            <a href="#" style="font-size: 50px;">home </a>|
+            <a href="#" style="font-size: 50px;">about </a>|
+            <a href="#" style="font-size: 50px;">servicve </a>|
+            <a href="#" style="font-size: 50px;">contact </a>|
+        </nav>
+        </center>
+    </header>
+<center>
+<img src="../image/car1.bmp" style="width: 50%; height: 50%;">
+<h2>New 2015 Mercedes-Benz GLA 250</h2>
+<h4>PRICE= 20,000$</h4>
+<h3>Exterior Color=Night Black. Interior Color=Black. Transmission=Automatic</h3>
+
+<img src="../image/car2.bmp" style="width: 50%; height: 50%;">
+<h2>BRABUS 2021 G-WAGON G-800</h2>
+<h4>PRICE=142,500$ </h4>
+<h3>Exterior=White.
+    Body Style=SUV.
+    Interior=black.</h3>
+
+<img src="../image/car3.bmp" style="width: 50%; height: 50%;">
+<h2>TOYOTA CAMRY 2014</h2>
+<h4>PRICE=23,700$</h4>
+<h3>Exterior=RED.
+    Body Style=SEDAN.
+    Interior=black.</h3>
+
+<img src="../image/car6.bmp" style="width: 50%; height: 50%;">
+<h2>2010 TOYOTA CAMRY</h2>
+<h4>PRICE=7,000$</h4>
+<h3>Exterior=CREAM.
+    Body Style=SEDAN.
+    Interior=BLACK.</h3>
+
+<img src="../image/car5.bmp" style="width: 50%; height: 50%;">
+<h2> 2023 LEXUS LX 600</h2>
+<h4>PRICE=92,000$</h4>
+<h3>Exterior=white.
+    Body Style=jeep.
+    Interior=black.</h3>
+
+<img src="../image/car4.bmp" style="width: 50%; height: 50%;">
+<h2>TUNDRA TOYOYA 2019</h2>
+<h4>PRICE=45,000$</h4>
+<h3>Exterior=BLACK.
+    Body Style=DOUBLE CAB/PICK UP.
+    Interior=black.</h3>
+
+
+</center>
+<footer style="background-color:black; width: 100%; height: 300px;">
+<h3 style="color: red ; font-size: 30px;">Address</h3>
+<p style="color: white; font-size: 18px;">Well somewhere</p>
+<h3 style="color: red; font-size: 20;">Useful links</h3>
+
+<a href="#" style="font-size: 20px;">home </a>|
+            <a href="#" style="font-size: 20px;">about </a>|
+            <a href="#" style="font-size: 20px;">servicve </a>|
+            <a href="#" style="font-size: 20px;">contact </a>|
+
+</footer>
+
+</body>
+</html>
